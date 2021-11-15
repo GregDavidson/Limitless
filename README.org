@@ -1,0 +1,29 @@
+﻿#+TITLE: A Limitless Fellowship
+#+SUBTITLE: README
+#+OPTIONS: toc:nil 
+#+OPTIONS: num:nil
+#+OPTIONS: date:nil 
+#+OPTIONS: author:nil 
+* A Limitless Fellowship: READ ME FIRST!
+
+Are you someone who is passionately interested in lots of things? Do you have
+strong intellectual interests and also strong interests in what it means to be a
+human being? Perhaps you also have more vision than you can actualize as an
+individual and you are looking for how to make the kind of difference with your
+life that you know is possible. Would you like to know more people who feel
+similarly? People who might provide you with Fellowship, Collegiality and
+possibly be Allies? If so, you might be interested in A Limitless Fellowship! If
+you’d like to check it out, please read these documents:
+
+[[https://docs.google.com/document/d/1nJwqohM6D7D_SXvHNnPbHxraHzCeCxYL0ZedabLlGHI/edit?usp=sharing][A Limitless Fellowship]] - Overview of the Project to Create the Fellowship, who
+we’re looking for and who might be interested!
+
+[[https://docs.google.com/document/d/1T9TbnyFyA9AOvzvlnQYfqEgq2IToZXuvxdNwp9mFxoU/edit?usp=sharing][A Limitless Fellowship Topics List]] - List of Topics for our Meetings
+
+If after reading those documents you think you might want to join the
+Fellowship, let’s communicate!
+
+We meet weekly via Zoom on Sundays, 10am US Pacific Time. We would love to meet
+you and share both ways about what we’re up to - and what we’d like to be up
+to - so feel free to request an invitation to attend. We have recordings of some
+of our previous meetings and we have a Discord Server for discussions.
