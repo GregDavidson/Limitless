@@ -1,0 +1,72 @@
+* A Limitless Fellowship - Meeting Notes - 10:00 a.m. Sunday 14 November 2021
+
+** Announcement posted to #general
+ 
+ Shall we talk about the source of our being?  Or Deep Rationality?  Or?
+
+** Followup Post
+
+I want to exuberantly thank everyone who participated in today's Limitless
+Fellowship meeting. Different people joined at different times and were only
+able to stay for different amounts of time. But the churn was slow, causing the
+conversation to somewhat resemble a relay race. The concepts which were
+introduced early were advanced and enriched as the torch was passed. What a
+glorious adventure! I'll try to write up some of what we covered later and
+please chime in with what I've missed before it all fades from our minds!
+ 
+** Some of what we talked about
+
+We began with check-ins and then a critique of models of /Western Rationality/
+which fail to analyze the source of the goals being pursued by agents, treating
+them all as end-goals. This contrasts with, e.g. NVC, Zen Buddhism, etc. This
+led to a discussion of agents as conscious /subjects/ rather than as mechanistic
+/objects/ and we were off to the races!
+   
+Models of Consciousness and their problems
+- the Cartesian all or nothing model
+- variations in levels of consciousness
+- [[https://en.wikipedia.org/wiki/Panpsychism][Panpsychism]] and its Combination Problem
+- Relationship to human language
+
+Meaning seems to always require an interpreter
+- [[https://duckduckgo.com/?t=lm&q=computer+made+of+dominoes&atb=v33-1&ia=web][Computers made of Dominoes]]
+- Who interprets the interpreter --> an infinite regress
+- Can we interpret one another?
+- Could Consciousness ground meaning perceived by /subjects?/
+
+[[https://en.wikipedia.org/wiki/Hard_problem_of_consciousness][The Hard Problem of Consciousness]]
+- [[https://en.wikipedia.org/wiki/Philosophical_zombie][Philosophical Zombies]]
+- [[https://en.wikipedia.org/wiki/Mind_uploading][Mind Uploading]] and non-digital content or exotic mechanisms
+- Evolution occurs in /the Real World/
+      - Distinct from the world described by our current physics models
+      - Penrose's conjecture of new physics in evolved nervous systems
+
+Possible roles for consciousness
+- Grounds meaning perceived by conscious agents
+- Source of true creativity
+      - the ability to distinguish new domains into existence
+- Access to Abstract (Platonic) spaces
+
+Hybrid analog/digital systems
+- [[https://en.wikipedia.org/wiki/Analog_computer][In Analog and Hybrid Computers]]
+- In animal nervous systems
+- long tails in the analog part of a computation
+      - i.e. at what scale does the analog computation end?
+
+[[http://www.anvari.org/fortune/Miscellaneous_Collections/56341_cycle-of-reincarnation-coined-by-ivan-sutherland-ca.html][The Cycle of Reincarnation]]
+- [[https://mikesml.com/2021/06/14/googles-new-ai-chip-the-coral-edge-tpu-in-action/][Google's "AI" Chip]]
+
+Computer architecture
+- The dominant architecture and /first mover mediocrity/
+      - [[https://en.wikipedia.org/wiki/Von_Neumann_architecture][Von Neumann Architecture]]
+- Non-von Neumann Computer architectures
+      - [[https://en.wikipedia.org/wiki/Dataflow_architecture][Dataflow Architecture]]
+      - [[https://en.wikipedia.org/wiki/Graph_reduction_machine][Reduction Machines]]
+      - [[https://en.wikipedia.org/wiki/Systolic_array][Systolic Array Processors]]
+
+Our awesome curated reading and viewing lists in our topics document
+-	[[https://docs.google.com/document/d/1T9TbnyFyA9AOvzvlnQYfqEgq2IToZXuvxdNwp9mFxoU/edit#heading=h.hvt7yjuve7n4][Our Meeting Topic List]]
+
+**  Attendees (anonymized)
+ 
+R, L, V, N, T
